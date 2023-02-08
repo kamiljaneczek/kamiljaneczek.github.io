@@ -1,0 +1,15 @@
+---
+title: Pega Cookbook
+layout: default
+modal-id: 3
+date: 2020-07-18
+img: cookbook.png
+alt: image-alt
+project-date: 
+client: 
+category:
+description:
+---
+
+
+Checkout more about	this project here: [!Github repository](https://github.com/kamil86/Pega-Cookbook)

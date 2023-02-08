@@ -1,0 +1,18 @@
+---
+title: Implementation Review
+layout: default
+modal-id: 4
+date: 2020-07-18
+img: ir.png
+alt: image-alt
+project-date: 
+client: 
+category:
+description:
+---
+
+
+Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/Implementation-Review)
+
+
+

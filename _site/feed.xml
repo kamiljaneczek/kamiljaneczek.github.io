@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-08T16:14:29+01:00</updated>
+  <updated>2023-02-08T23:27:36+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+    <subtitle>Kamil Janeczek. Low code enthusiast, automation supported, digital transformation consultant and Pega developer with LSA certification</subtitle>
   
 
   
@@ -20,12 +20,140 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Home Assistant config</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Home Assistant config" />
+      <published>2020-07-18T00:00:00+02:00</published>
+      <updated>2020-07-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Checkout more about this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/Implementation-Review&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Checkout more about this project here: Github repository</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Implementation Review</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Implementation Review" />
+      <published>2020-07-18T00:00:00+02:00</published>
+      <updated>2020-07-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Checkout more about this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/Implementation-Review&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Checkout more about this project here: Github repository</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Pega Cookbook</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Pega Cookbook" />
+      <published>2020-07-18T00:00:00+02:00</published>
+      <updated>2020-07-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Checkout more about	this project here: &lt;a href=&quot;https://github.com/kamil86/Pega-Cookbook&quot;&gt;!Github repository&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Checkout more about this project here: !Github repository</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Newhire Checklist</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Newhire Checklist" />
+      <published>2020-07-18T00:00:00+02:00</published>
+      <updated>2020-07-18T00:00:00+02:00</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Checkout more on this project here: &lt;a href=&quot;https://www.onet.pl&quot;&gt;!sfsdfsd&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Checkout more on this project here: !sfsdfsd</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Quality Checklist</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Quality Checklist" />
       <published>2014-07-18T00:00:00+02:00</published>
       <updated>2014-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Checkout more about	this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/QA-Checklist&quot;&gt;!Github repository&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -40,183 +168,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
-      <published>2014-07-17T00:00:00+02:00</published>
-      <updated>2014-07-17T00:00:00+02:00</updated>
-      <id>http://localhost:4000/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00+02:00</published>
-      <updated>2014-07-16T00:00:00+02:00</updated>
-      <id>http://localhost:4000/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
-      <published>2014-07-15T00:00:00+02:00</published>
-      <updated>2014-07-15T00:00:00+02:00</updated>
-      <id>http://localhost:4000/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00+02:00</published>
-      <updated>2014-07-15T00:00:00+02:00</updated>
-      <id>http://localhost:4000/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
-      <published>2014-07-14T00:00:00+02:00</published>
-      <updated>2014-07-14T00:00:00+02:00</updated>
-      <id>http://localhost:4000/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
+        <summary type="html">Checkout more about this project here: !Github repository</summary>
       
 
       

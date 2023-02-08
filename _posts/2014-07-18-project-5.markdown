@@ -1,0 +1,18 @@
+---
+title: Home Assistant config
+layout: default
+modal-id: 5
+date: 2020-07-18
+img: home.png
+alt: image-alt
+project-date: 
+client: 
+category:
+description:
+---
+
+
+Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/Implementation-Review)
+
+
+

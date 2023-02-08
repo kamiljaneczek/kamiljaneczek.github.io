@@ -1,0 +1,18 @@
+---
+title: Newhire Checklist
+layout: default
+modal-id: 2
+date: 2020-07-18
+img: nhc.png
+alt: image-alt
+project-date: 
+client: 
+category:
+description:
+---
+
+
+Checkout more on this project here: [!sfsdfsd](https://www.onet.pl)
+
+
+
