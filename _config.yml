@@ -2,9 +2,9 @@
 title: Kamil Janeczek
 email: janeczekkamil@gmail.com
 url: https://kamiljaneczek.github,io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Low code enthusiast, automation fan, digital transformation consultant, Pega developer"
+description: "Kamil Janeczek. Low code enthusiast, automation supported, digital transformation consultant and Pega developer with LSA certification"
+keywords: "Kamil Janeczek, Pega, LSA, Low code"
+skills: "Low code enthusiast, automation advocate, open-source supported, digital transformation consultant, Pega developer with LSA certification"
 meta_author: Kamil Janeczek
 
 # Google webmaster tools
@@ -25,26 +25,26 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 6096BA
-  primary-rgb: "0,288,16" #"128,179,255"
-  secondary: 274C77 #FD6E8A
-  secondary-dark: 19314D #A2122F red
+  primary: 279185
+  primary-rgb: "220,220,220" #"128,179,255"
+  secondary: 344B47 #FD6E8A
+  secondary-dark: 96B1AC #A2122F red
 
 # Footer settings
 footer:
   copyright: Kamil Janeczek
-  location: Good cause
+  location: Certification
   social: Social media
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Pega
-    url: https://academy.pega.com/verify-certification?email=kamil.janeczek%40pega.com
   - title: linkedin
     url: https://www.linkedin.com/in/kamil-janeczek/
   - title: github
     url: https://kamiljaneczek.github.io
+  - title: product-hunt
+    url: https://academy.pega.com/verify-certification?email=kamil.janeczek%40pega.com    
 
 # Postal address (add as many lines as necessary)
 address:
@@ -52,7 +52,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Avatar created thanks to <a href="https://avatarmaker.com/"> Avatarmaker</a>. Icons downloaded from <a href="https://www.flaticon.com/free-icons/quality" title="quality icons">Quality icons created by juicy_fish - Flaticon</a>.' 
 
 # Build settings
 markdown: kramdown
