@@ -32,6 +32,15 @@ a.active {
     color: #279185;
 }
 
+#about a,
+#about a:hover,
+#about a:focus,
+#about a:active,
+#about a.active {
+    outline: 0;
+    color: #344B47;
+}
+
 h1,
 h2,
 h3,
