@@ -12,5 +12,14 @@ description:
 ---
 
 
-Checkout more about	this project here: [Github repository](https://github.com/kamiljaneczek/HA-Config)
+On [Github repository](https://github.com/kamiljaneczek/HA-Config) I am shaing my configuration of HA whic includes:
+
+Controling of devices and ligths via **Shelly**
+
+Integration with **Satel** alarm system
+
+Control of gas central heating via **Sterowniki**
+
+Control of **Gree** air conditioners
+
 

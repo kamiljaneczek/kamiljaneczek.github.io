@@ -11,7 +11,9 @@ category:
 description:
 ---
 
-New Hire Checklist application guides New hire during the first months with Pega platform. New hire will learn the basic knowledge required in each project. The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps. Checkout more on this project here: [Github repository](https://github.com/kamiljaneczek/Newhire-Checklist)
+New Hire Checklist application **guides New hire during the first months with Pega platform**. New hire will learn the basic knowledge required in each project. The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps. 
+
+Checkout more on this project here: [Github repository](https://github.com/kamiljaneczek/Newhire-Checklist)
 
 
 

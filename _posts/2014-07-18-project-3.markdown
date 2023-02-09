@@ -11,4 +11,6 @@ category:
 description:
 ---
 
-Pega Cookbook is an initiative to share Pega tribal knowledge. There are recipies and snippets used widly in Pega projects. Pega Cookbook aims at collecting them in out place. Checkout more about	this project here:[github.com/kamiljaneczek/Pega-Cookbook](https://github.com/kamiljaneczek/Pega-Cookbook) all sources are available in repository [Github repository](https://github.com/kamil86/Pega-Cookbook)
+Pega Cookbook is an initiative to **share Pega tribal knowledge**. There are recipies and snippets used widly in Pega projects. Pega Cookbook aims at collecting them in out place. 
+
+Checkout more about	this project here:[github.com/kamiljaneczek/Pega-Cookbook](https://github.com/kamiljaneczek/Pega-Cookbook) all sources are available in repository [Github repository](https://github.com/kamil86/Pega-Cookbook)

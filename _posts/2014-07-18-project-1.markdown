@@ -11,6 +11,10 @@ category:
 description:
 ---
 
-Quality Checklist is an application initaily writen in Pega 8.1 and later upgraded to newest platform version. Main goal of this applicaiton is to improve quality of developemnt in Pega platform. Application tracks formal documentation of quality measures taken after developing user story and before haning it over to testing. Applicaiton allows to configure Quality checklist form (per project) and adjust approval workflow (who needs to approve checklist). Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/QA-Checklist)
+Quality Checklist is an application initaily writen in Pega 8.1 and later upgraded to newest platform version. Main goal of this application is to **improve quality of developemnt** in Pega platform. 
+
+Application tracks formal documentation of quality measures taken after developing user story and before haning it over to testing. Applicaiton allows to configure Quality checklist form (per project) and customizes approval workflow (who needs to approve checklist). 
+
+Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/QA-Checklist)
 
 

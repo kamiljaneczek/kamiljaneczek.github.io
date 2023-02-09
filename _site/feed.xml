@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-09T21:57:56+01:00</updated>
+  <updated>2023-02-09T22:16:05+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -25,7 +25,15 @@
       <published>2020-07-18T00:00:00+02:00</published>
       <updated>2020-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Checkout more about	this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/HA-Config&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;On &lt;a href=&quot;https://github.com/kamiljaneczek/HA-Config&quot;&gt;Github repository&lt;/a&gt; I am shaing my configuration of HA whic includes:&lt;/p&gt;
+
+&lt;p&gt;Controling of devices and ligths via &lt;strong&gt;Shelly&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Integration with &lt;strong&gt;Satel&lt;/strong&gt; alarm system&lt;/p&gt;
+
+&lt;p&gt;Control of gas central heating via &lt;strong&gt;Sterowniki&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Control of &lt;strong&gt;Gree&lt;/strong&gt; air conditioners&lt;/p&gt;</content>
 
       
       
@@ -44,7 +52,7 @@
       
 
       
-        <summary type="html">Checkout more about this project here: Github repository</summary>
+        <summary type="html">On Github repository I am shaing my configuration of HA whic includes:</summary>
       
 
       
@@ -57,7 +65,11 @@
       <published>2020-07-18T00:00:00+02:00</published>
       <updated>2020-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Implementation Review application helps Pega LSA to measure quality of team development. By automating this task appliacation makes it possible to run quality check frequently in fully automated way and gives instant feedback to development team about potential quality improvments. Checkout more about this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/Implementation-Review&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Implementation Review application helps Pega LSA to &lt;strong&gt;measure quality of team development&lt;/strong&gt;. By automating this task appliacation makes it possible to run quality check frequently, in fully automated way, and gives instant feedback to development team about potential quality improvments.&lt;/p&gt;
+
+&lt;p&gt;Applicaiton produces also formal document that can be handed over to customer as part of governance efforts.&lt;/p&gt;
+
+&lt;p&gt;Checkout more about this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/Implementation-Review&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -76,7 +88,7 @@
       
 
       
-        <summary type="html">Implementation Review application helps Pega LSA to measure quality of team development. By automating this task appliacation makes it possible to run quality check frequently in fully automated way and gives instant feedback to development team about potential quality improvments. Checkout more about this project here: Github repository</summary>
+        <summary type="html">Implementation Review application helps Pega LSA to measure quality of team development. By automating this task appliacation makes it possible to run quality check frequently, in fully automated way, and gives instant feedback to development team about potential quality improvments.</summary>
       
 
       
@@ -89,7 +101,9 @@
       <published>2020-07-18T00:00:00+02:00</published>
       <updated>2020-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Pega Cookbook is an initiative to share Pega tribal knowledge. There are recipies and snippets used widly in Pega projects. Pega Cookbook aims at collecting them in out place. Checkout more about	this project here:&lt;a href=&quot;https://github.com/kamiljaneczek/Pega-Cookbook&quot;&gt;github.com/kamiljaneczek/Pega-Cookbook&lt;/a&gt; all sources are available in repository &lt;a href=&quot;https://github.com/kamil86/Pega-Cookbook&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Pega Cookbook is an initiative to &lt;strong&gt;share Pega tribal knowledge&lt;/strong&gt;. There are recipies and snippets used widly in Pega projects. Pega Cookbook aims at collecting them in out place.&lt;/p&gt;
+
+&lt;p&gt;Checkout more about	this project here:&lt;a href=&quot;https://github.com/kamiljaneczek/Pega-Cookbook&quot;&gt;github.com/kamiljaneczek/Pega-Cookbook&lt;/a&gt; all sources are available in repository &lt;a href=&quot;https://github.com/kamil86/Pega-Cookbook&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -108,7 +122,7 @@
       
 
       
-        <summary type="html">Pega Cookbook is an initiative to share Pega tribal knowledge. There are recipies and snippets used widly in Pega projects. Pega Cookbook aims at collecting them in out place. Checkout more about this project here:github.com/kamiljaneczek/Pega-Cookbook all sources are available in repository Github repository</summary>
+        <summary type="html">Pega Cookbook is an initiative to share Pega tribal knowledge. There are recipies and snippets used widly in Pega projects. Pega Cookbook aims at collecting them in out place.</summary>
       
 
       
@@ -121,7 +135,9 @@
       <published>2020-07-18T00:00:00+02:00</published>
       <updated>2020-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;New Hire Checklist application guides New hire during the first months with Pega platform. New hire will learn the basic knowledge required in each project. The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps. Checkout more on this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/Newhire-Checklist&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;New Hire Checklist application &lt;strong&gt;guides New hire during the first months with Pega platform&lt;/strong&gt;. New hire will learn the basic knowledge required in each project. The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps.&lt;/p&gt;
+
+&lt;p&gt;Checkout more on this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/Newhire-Checklist&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -140,7 +156,7 @@
       
 
       
-        <summary type="html">New Hire Checklist application guides New hire during the first months with Pega platform. New hire will learn the basic knowledge required in each project. The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps. Checkout more on this project here: Github repository</summary>
+        <summary type="html">New Hire Checklist application guides New hire during the first months with Pega platform. New hire will learn the basic knowledge required in each project. The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps.</summary>
       
 
       
@@ -153,7 +169,11 @@
       <published>2014-07-18T00:00:00+02:00</published>
       <updated>2014-07-18T00:00:00+02:00</updated>
       <id>http://localhost:4000/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Quality Checklist is an application initaily writen in Pega 8.1 and later upgraded to newest platform version. Main goal of this applicaiton is to improve quality of developemnt in Pega platform. Application tracks formal documentation of quality measures taken after developing user story and before haning it over to testing. Applicaiton allows to configure Quality checklist form (per project) and adjust approval workflow (who needs to approve checklist). Checkout more about this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/QA-Checklist&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Quality Checklist is an application initaily writen in Pega 8.1 and later upgraded to newest platform version. Main goal of this application is to &lt;strong&gt;improve quality of developemnt&lt;/strong&gt; in Pega platform.&lt;/p&gt;
+
+&lt;p&gt;Application tracks formal documentation of quality measures taken after developing user story and before haning it over to testing. Applicaiton allows to configure Quality checklist form (per project) and customizes approval workflow (who needs to approve checklist).&lt;/p&gt;
+
+&lt;p&gt;Checkout more about this project here: &lt;a href=&quot;https://github.com/kamiljaneczek/QA-Checklist&quot;&gt;Github repository&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -172,7 +192,7 @@
       
 
       
-        <summary type="html">Quality Checklist is an application initaily writen in Pega 8.1 and later upgraded to newest platform version. Main goal of this applicaiton is to improve quality of developemnt in Pega platform. Application tracks formal documentation of quality measures taken after developing user story and before haning it over to testing. Applicaiton allows to configure Quality checklist form (per project) and adjust approval workflow (who needs to approve checklist). Checkout more about this project here: Github repository</summary>
+        <summary type="html">Quality Checklist is an application initaily writen in Pega 8.1 and later upgraded to newest platform version. Main goal of this application is to improve quality of developemnt in Pega platform.</summary>
       
 
       
