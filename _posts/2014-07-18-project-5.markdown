@@ -12,7 +12,5 @@ description:
 ---
 
 
-Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/Implementation-Review)
-
-
+Checkout more about	this project here: [Github repository](https://github.com/kamiljaneczek/HA-Config)
 

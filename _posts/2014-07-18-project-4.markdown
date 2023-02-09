@@ -11,8 +11,7 @@ category:
 description:
 ---
 
-
-Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/Implementation-Review)
+Implementation Review application helps Pega LSA to measure quality of team development. By automating this task appliacation makes it possible to run quality check frequently in fully automated way and gives instant feedback to development team about potential quality improvments. Checkout more about this project here: [Github repository](https://github.com/kamiljaneczek/Implementation-Review)
 
 
 
