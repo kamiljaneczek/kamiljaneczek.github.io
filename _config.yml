@@ -39,15 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Linkedin
+  - title: linkedin
     url: https://www.linkedin.com/in/kamil-janeczek/
     desc: Linkedin
-  - title: Github
+  - title: github
     url: https://github.com/kamiljaneczek
     desc: Github
   - title: product-hunt
     url: https://academy.pega.com/verify-certification?email=kamil.janeczek%40pega.com    
-    desc: Pegaprofile
+    desc: Pega
 
 # Postal address (add as many lines as necessary)
 address:

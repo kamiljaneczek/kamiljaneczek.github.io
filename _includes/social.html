@@ -1,0 +1,29 @@
+<section class="success" id="social">
+    <div class="row">
+    
+        <div class="col-lg-12 text-center">
+          <h2>{{ site.footer.social }}</h2>
+
+          <hr class="star-light">
+       
+        <p>Engage with me on social media</p>
+      </br>
+        </div>
+
+    </div>
+    <div class="row">
+    <div class="col-lg-12">
+      <div class="social text-center">
+      <ul class="list-inline">
+        {% for network in site.social %}
+        <li>
+          <a href="{{ network.url }}" class="btn-social btn-outline"><b
+              class="fa-brands fa-1x fa-fw fa-{{ network.title }}"></b></a>
+              <p>{{ network.desc }}</p>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    </div>
+  </div>
+</section>
