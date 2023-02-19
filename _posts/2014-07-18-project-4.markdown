@@ -13,7 +13,7 @@ description:
 
 Implementation Review application helps Pega LSA to **measure quality of team development**. By automating this task appliacation makes it possible to run quality check frequently, in fully automated way, and gives instant feedback to development team about potential quality improvments. 
 
-Applicaiton produces also formal document that can be handed over to customer as part of governance efforts.
+Application produces also formal document that can be handed over to customer as part of governance efforts.
 
 Contact me if you are interested to see this application in action!
 

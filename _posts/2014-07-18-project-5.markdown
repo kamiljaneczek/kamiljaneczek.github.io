@@ -18,8 +18,8 @@ Controling of devices and ligths via  [**Shelly**](https://shelly.cloud)
 
 Integration with [**Satel**](https://satel.pl) alarm system
 
-Control of gas central heating via 
+Control of gas central heating via [**Tech Sterowniki**](https://techsterowniki.pl) 
 
-Control of [**Gree**](https://global.gree.com//) air conditioning system
+Control of [**Gree**](https://global.gree.com) air conditioning system
 
 

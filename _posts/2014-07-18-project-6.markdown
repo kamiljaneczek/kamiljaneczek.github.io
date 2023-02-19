@@ -13,8 +13,8 @@ description:
 
 **Water cooler** interactions are informal, non-work-related conversations between employees in a typical office environment. Now your team member can engage online through Webex meeting.
 
-Application faciliates creation of Water Cooler meetings for you team membes.
+Application faciliates creation of Water Cooler meetings for your team.
 
-Applicaiton has been developen in Pega 8.8.1 using new UI architecture which is **Constellation**, a *Ract* based modern UI framework.
+Applicaiton has been developen in Pega 8.8.1 using new UI architecture which is **Constellation**, a *React* based modern UI framework.
 
-Checkout more On [Github repository](https://github.com/kamiljaneczek/HA-Config) where I share applicaiton files.
+Checkout more On [Github repository](https://github.com/kamiljaneczek/WaterCooler) where I share application files.
