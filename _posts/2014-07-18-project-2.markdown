@@ -18,9 +18,13 @@ New Hire Checklist application **guides New hire during the first months with Pe
  The checklist can also be used by already experienced employees to reevaluate their knowledge and discover potential gaps. 
 
 The main goals of NHC:
+
 Enable new hires to become productive consultants in an effective way
+
 Share „tribal-knowledge” and fill gaps left by current training offerings on Academy
+
 Hands-on experience on various aspects of developing in Pega
+
 Discover most useful sources of knowledge both related to Pega platform
 
 

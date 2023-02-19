@@ -12,14 +12,14 @@ description:
 ---
 
 
-On [Github repository](https://github.com/kamiljaneczek/HA-Config) I am sharing my configuration of HA whic includes:
+On [Github repository](https://github.com/kamiljaneczek/HA-Config) I am sharing my configuration of HA which includes:
 
-Controling of devices and ligths via **Shelly**
+Controling of devices and ligths via  [**Shelly**](https://shelly.cloud) 
 
-Integration with **Satel** alarm system
+Integration with [**Satel**](https://satel.pl) alarm system
 
-Control of gas central heating via **Sterowniki**
+Control of gas central heating via 
 
-Control of **Gree** air conditioners
+Control of [**Gree** ](https://global.gree.com//) air conditioning system
 
 

@@ -15,7 +15,7 @@ Implementation Review application helps Pega LSA to **measure quality of team de
 
 Applicaiton produces also formal document that can be handed over to customer as part of governance efforts.
 
-Contac me if you are interested to see this application in action!
+Contact me if you are interested to see this application in action!
 
 
 
