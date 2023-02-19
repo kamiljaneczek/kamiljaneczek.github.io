@@ -12,7 +12,7 @@ description:
 ---
 
 
-On [Github repository](https://github.com/kamiljaneczek/HA-Config) I am shaing my configuration of HA whic includes:
+On [Github repository](https://github.com/kamiljaneczek/HA-Config) I am sharing my configuration of HA whic includes:
 
 Controling of devices and ligths via **Shelly**
 
