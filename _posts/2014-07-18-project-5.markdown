@@ -20,6 +20,6 @@ Integration with [**Satel**](https://satel.pl) alarm system
 
 Control of gas central heating via 
 
-Control of [**Gree** ](https://global.gree.com//) air conditioning system
+Control of [**Gree**](https://global.gree.com//) air conditioning system
 
 
